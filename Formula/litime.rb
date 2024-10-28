@@ -1,7 +1,7 @@
 class Litime < Formula
   desc "Command-line tool to display the current time ish with a literature quote"
   homepage "https://github.com/ikornaselur/litime"
-  url "https://github.com/ikornaselur/litime.git", tag: "v3.2.0", revision: "6c39a5ecbfb6bf0eb872b247a76773a3a43866f8"
+  url "https://github.com/ikornaselur/litime.git", tag: "v3.3.0", revision: "c0d5d311de7bc2b6b4f51739e1e4242510825aba"
   license "CC-BY-NC-SA-2.5"
   head "https://github.com/ikornaselur/litime.git", branch: "main"
 
